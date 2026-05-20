@@ -1,0 +1,6 @@
+.DS_Store
+debug.log
+SpaceFlow.app/
+*.crt
+*.key
+*.p12
